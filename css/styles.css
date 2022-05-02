@@ -6,7 +6,7 @@ body{
   border: 2px solid #000 !important;
 }
 #header-nav{
-  background-color:#999999;  
+  background-color:#6ff58c;  
   border:2px solid #000; 
   border-radius: 0;
 }
@@ -62,7 +62,7 @@ body{
 }
 .menu-item{
   margin-bottom: 20px;
-  background:#999999;  
+  background: #6ff58c;  
   padding: 10px;
 }
 .menu-item h4 {
